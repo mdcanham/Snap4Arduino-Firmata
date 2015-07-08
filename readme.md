@@ -13,3 +13,4 @@ A collection of Firmata libraries that allow various Arduino components to work 
     A library that allows Snap4Arduino to interface wiht the HC SR04 Ultrasound device.
 
 ##Planned libraries
+* DHT11 Temperature/Humidity Sensor
