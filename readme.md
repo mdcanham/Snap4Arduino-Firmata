@@ -3,13 +3,13 @@ A collection of Firmata libraries that allow various Arduino components to work 
 
 ##Current libraries
 
-  ###BuzzerFirmata
+###BuzzerFirmata
     A simple library for a piezoelectric buzzer. Makes use of the tone() function.
 
-  ###LCDFirmata
+###LCDFirmata
     A library that allows Snap4Arduino to interface with a 16x2 LCD display.
 
-  ###Ultrasound_HC_SR04Firmata
+###Ultrasound_HC_SR04Firmata
     A library that allows Snap4Arduino to interface wiht the HC SR04 Ultrasound device.
 
 ##Planned libraries
