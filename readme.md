@@ -13,7 +13,7 @@ To request a new library just create a new issue.
 ###Ultrasound_HC_SR04Firmata
     A library that allows Snap4Arduino to interface with the HC SR04 Ultrasound device.
 
-###Ultrasound_HC_SR04Firmata
+###KeypadFirmata
     A library that allows Snap4Arduino to interface with a 4x4 keypad.
 
 ##Planned libraries
