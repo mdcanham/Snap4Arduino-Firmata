@@ -1,5 +1,6 @@
 #Snap4Arduino Firmata Collection
 A collection of Firmata libraries that allow various Arduino components to work with Snap4Arduino.
+To request a new library just create a new issue.
 
 ##Current libraries
 
