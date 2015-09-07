@@ -1,4 +1,4 @@
-#BuzzerFirmata
+#KeypadFirmata
 A library that allows Snap4Arduino to interface with a 4x4 keypad.
 ##Instructions
 1. Install the 'Keypad' library to your Arduino ide. The library can be found in the 'Libraries' folder and more instructions about how to add a library to the Arduino ide can be found here: https://www.arduino.cc/en/guide/libraries.
